@@ -14,7 +14,7 @@
             overflow-x: hidden;
             min-height: 100vh;
             position: relative;
-            background-color: "Lightskyblue";
+            background-color: "#634c3c";
             overflow: hidden;
         }
 
